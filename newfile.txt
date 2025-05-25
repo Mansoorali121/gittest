@@ -1,0 +1,5 @@
+Three folder to learrn the git and its commands .
+Git add another file to the folder and Commit it.
+
+3. Adding more and more text
+4. Again Adding Text here 
